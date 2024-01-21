@@ -1,0 +1,12 @@
+pip
+setuptools
+wheel
+torch
+torchvision
+torchaudio
+tqdm
+click
+matplotlib
+numpy
+scipy
+scikit-image
