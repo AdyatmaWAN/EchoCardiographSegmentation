@@ -12,3 +12,4 @@ scipy
 scikit-image
 pandas
 opencv-python
+scikit-learn
