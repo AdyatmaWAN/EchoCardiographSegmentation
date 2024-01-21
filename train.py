@@ -100,7 +100,7 @@ seed = 8
 np.random.seed(seed)
 torch.manual_seed(seed)
 
-data_dir = "./EchoNet-Dynamic"
+data_dir = "../EchoNet-Dynamic"
 base_model = "models"
 
 model_name="proposed"
